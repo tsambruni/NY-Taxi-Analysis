@@ -1,2 +1,2 @@
 # NY-Taxi-Analysis
-So You Want To Be A Data Scientist learning project
+[So you want to be a data scientist](https://www.soyouwanttobeadatascientist.com/) learning project
